@@ -1,0 +1,15 @@
+#results {
+    display:all;
+  }
+
+body {
+  background-image: url(pimp.jpg);
+}
+
+.container .row {
+  background-color: green;
+}
+
+#tipAmount{
+  text-decoration: white;
+}
